@@ -1,0 +1,8 @@
+sockperf: [2;35m== version #3.7-no.git == [0m
+sockperf: [SERVER] listen on:
+[ 0] IP = 211.87.236.24   PORT = 11111 # UDP
+sockperf: Warmup stage (sending a few dummy messages)...
+sockperf: [tid 58418] using recvfrom() to block on socket(s)
+sockperf: Test end (interrupted by user)
+sockperf: No messages were received on the server.
+sockperf: cleanupAfterLoop() exit
