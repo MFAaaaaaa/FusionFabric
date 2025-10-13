@@ -38,27 +38,6 @@
 ## 3. 解决方案：网络平面卸载至 DPU (Our Solution: Offloading to DPU)
 
 针对上述瓶颈，我们提出的解决方案是将整个网络数据平面从 RISC-V 主 CPU 中剥离，完全卸载到专用的 DPU 上。
-传统架构 (Traditional Architecture):
-+----------------------+ +-----------------+
-| Application | | |
-|----------------------| | Network |
-| Kernel Network | <-----> | |
-| Stack (High CPU) | | |
-+----------------------+ +-----------------+
-[RISC-V CPU]
-
-DPU 卸载架构 (DPU Offload Architecture):
-+----------------------+ +-----------------+
-| Application | | |
-| (CPU Freed) | | Network |
-+----------------------+ | ^ |
-[RISC-V CPU] | | |
-v | v
-+-----------------+
-| DPU / SmartNIC |
-| (Handles Network|
-| Stack & IRQ) |
-+-----------------+
 
 利用 DPU 内置的硬件加速引擎和专用核心来处理网络协议、中断、数据包转发等任务，从而绕过主 CPU 的处理瓶颈和 SoC 的 I/O 瓶颈。
 
