@@ -1,0 +1,300 @@
+2025-09-12 08:59:07
+CPU:0 processed:00882b22
+CPU:1 processed:000b4aee
+CPU:2 processed:0008f51d
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eee0
+CPU:5 processed:0007927a
+CPU:6 processed:00004a9f
+CPU:7 processed:00012441
+
+2025-09-12 08:59:08
+CPU:0 processed:0088a78d
+CPU:1 processed:000b4aee
+CPU:2 processed:0008f51f
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eee1
+CPU:5 processed:0007927e
+CPU:6 processed:00004a9f
+CPU:7 processed:00012443
+
+2025-09-12 08:59:09
+CPU:0 processed:008924d4
+CPU:1 processed:000b4aee
+CPU:2 processed:0008f51f
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eee1
+CPU:5 processed:00079281
+CPU:6 processed:00004a9f
+CPU:7 processed:00012445
+
+2025-09-12 08:59:10
+CPU:0 processed:0089a869
+CPU:1 processed:000b4aee
+CPU:2 processed:0008f522
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eee2
+CPU:5 processed:00079282
+CPU:6 processed:00004a9f
+CPU:7 processed:00012446
+
+2025-09-12 08:59:11
+CPU:0 processed:008a23de
+CPU:1 processed:000b4aee
+CPU:2 processed:0008f523
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eee2
+CPU:5 processed:00079286
+CPU:6 processed:00004a9f
+CPU:7 processed:00012447
+
+2025-09-12 08:59:12
+CPU:0 processed:008aaad2
+CPU:1 processed:000b4aee
+CPU:2 processed:0008f525
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eee4
+CPU:5 processed:0007928b
+CPU:6 processed:00004a9f
+CPU:7 processed:00012449
+
+2025-09-12 08:59:13
+CPU:0 processed:008b256b
+CPU:1 processed:000b4af0
+CPU:2 processed:0008f525
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eeea
+CPU:5 processed:0007928f
+CPU:6 processed:00004aa2
+CPU:7 processed:0001244b
+
+2025-09-12 08:59:14
+CPU:0 processed:008ba1fe
+CPU:1 processed:000b4af0
+CPU:2 processed:0008f525
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef1
+CPU:5 processed:00079292
+CPU:6 processed:00004aa2
+CPU:7 processed:0001244c
+
+2025-09-12 08:59:15
+CPU:0 processed:008c2381
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f527
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef1
+CPU:5 processed:00079294
+CPU:6 processed:00004aa4
+CPU:7 processed:0001244e
+
+2025-09-12 08:59:16
+CPU:0 processed:008ca878
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f528
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef2
+CPU:5 processed:00079295
+CPU:6 processed:00004aa4
+CPU:7 processed:0001244e
+
+2025-09-12 08:59:17
+CPU:0 processed:008d2df7
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52a
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef2
+CPU:5 processed:00079299
+CPU:6 processed:00004aa4
+CPU:7 processed:0001244e
+
+2025-09-12 08:59:18
+CPU:0 processed:008db13a
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52b
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef3
+CPU:5 processed:0007929b
+CPU:6 processed:00004aa4
+CPU:7 processed:0001244f
+
+2025-09-12 08:59:19
+CPU:0 processed:008e3554
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52c
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef3
+CPU:5 processed:0007929f
+CPU:6 processed:00004aa4
+CPU:7 processed:00012451
+
+2025-09-12 08:59:20
+CPU:0 processed:008eb86f
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52c
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef5
+CPU:5 processed:000792a3
+CPU:6 processed:00004aa4
+CPU:7 processed:00012452
+
+2025-09-12 08:59:21
+CPU:0 processed:008f412f
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52d
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef5
+CPU:5 processed:000792a6
+CPU:6 processed:00004aa4
+CPU:7 processed:00012452
+
+2025-09-12 08:59:22
+CPU:0 processed:008fc3eb
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52d
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef6
+CPU:5 processed:000792a6
+CPU:6 processed:00004aa4
+CPU:7 processed:00012453
+
+2025-09-12 08:59:23
+CPU:0 processed:00904163
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f52f
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef6
+CPU:5 processed:000792aa
+CPU:6 processed:00004aa4
+CPU:7 processed:00012454
+
+2025-09-12 08:59:24
+CPU:0 processed:0090c90f
+CPU:1 processed:000b4af2
+CPU:2 processed:0008f531
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef7
+CPU:5 processed:000792ae
+CPU:6 processed:00004aa4
+CPU:7 processed:00012455
+
+2025-09-12 08:59:25
+CPU:0 processed:00914dd6
+CPU:1 processed:000b4af4
+CPU:2 processed:0008f532
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eef7
+CPU:5 processed:000792b3
+CPU:6 processed:00004aa6
+CPU:7 processed:00012455
+
+2025-09-12 08:59:26
+CPU:0 processed:0091dfd5
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f534
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eefa
+CPU:5 processed:000792b7
+CPU:6 processed:00004aaa
+CPU:7 processed:00012455
+
+2025-09-12 08:59:27
+CPU:0 processed:00926cc0
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f538
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eefe
+CPU:5 processed:000792b9
+CPU:6 processed:00004aaa
+CPU:7 processed:00012455
+
+2025-09-12 08:59:28
+CPU:0 processed:0092ec6e
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f53a
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eeff
+CPU:5 processed:000792ba
+CPU:6 processed:00004aaa
+CPU:7 processed:00012455
+
+2025-09-12 08:59:29
+CPU:0 processed:00936b6f
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f53b
+CPU:3 processed:0005cfff
+CPU:4 processed:0000eeff
+CPU:5 processed:000792c0
+CPU:6 processed:00004aaa
+CPU:7 processed:00012458
+
+2025-09-12 08:59:30
+CPU:0 processed:0093fe31
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f53d
+CPU:3 processed:0005cfff
+CPU:4 processed:0000ef01
+CPU:5 processed:000792c2
+CPU:6 processed:00004aaa
+CPU:7 processed:00012459
+
+2025-09-12 08:59:31
+CPU:0 processed:00949472
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f53e
+CPU:3 processed:0005cfff
+CPU:4 processed:0000ef01
+CPU:5 processed:000792c5
+CPU:6 processed:00004aaa
+CPU:7 processed:00012459
+
+2025-09-12 08:59:32
+CPU:0 processed:0095272c
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f53e
+CPU:3 processed:0005cfff
+CPU:4 processed:0000ef02
+CPU:5 processed:000792cb
+CPU:6 processed:00004aaa
+CPU:7 processed:0001245a
+
+2025-09-12 08:59:33
+CPU:0 processed:0095b9dc
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f53f
+CPU:3 processed:0005cfff
+CPU:4 processed:0000ef02
+CPU:5 processed:000792cd
+CPU:6 processed:00004aaa
+CPU:7 processed:0001245b
+
+2025-09-12 08:59:34
+CPU:0 processed:00964cea
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f540
+CPU:3 processed:0005d000
+CPU:4 processed:0000ef03
+CPU:5 processed:000792cf
+CPU:6 processed:00004aaa
+CPU:7 processed:0001245c
+
+2025-09-12 08:59:35
+CPU:0 processed:00967be1
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f542
+CPU:3 processed:0005d000
+CPU:4 processed:0000ef03
+CPU:5 processed:000792d5
+CPU:6 processed:00004ab2
+CPU:7 processed:0001245d
+
+2025-09-12 08:59:36
+CPU:0 processed:00967be5
+CPU:1 processed:000b4af8
+CPU:2 processed:0008f542
+CPU:3 processed:0005d000
+CPU:4 processed:0000ef04
+CPU:5 processed:000792d8
+CPU:6 processed:00004ab2
+CPU:7 processed:0001245e
+
