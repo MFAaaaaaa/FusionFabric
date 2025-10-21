@@ -1,5 +1,5 @@
-# RISC-V-DPU
-# RISC-V 高性能网络：引入 DPU 卸载的必要性研究
+# FusionFabric
+# 基于DPU与TPU片上融合的统一计算网络架构
 ## Research on the Necessity of DPU Offloading for High-Performance RISC-V Networking
 
 ## 1. 项目简介 (Introduction)
